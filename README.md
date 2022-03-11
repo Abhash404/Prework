@@ -1,4 +1,4 @@
-# Pre-work - ios Tip Calculator
+ios Tip Calculator
 
 ios Tip Calculator is a tip calculator application for iOS.
 
