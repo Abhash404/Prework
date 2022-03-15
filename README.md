@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app.
 
 - Mitigation between transition pages compiled a lot of execution errors.
 - Slider bar did not undeergo implementation.
